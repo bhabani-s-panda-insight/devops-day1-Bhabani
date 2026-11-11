@@ -1,3 +1,8 @@
+
+def simple():
+    print("Nice starting devops training.")
+
+
 def print_values():
     a = 20
     c = a + 20 
@@ -5,3 +10,4 @@ def print_values():
 
 
 print_values()
+simple()
